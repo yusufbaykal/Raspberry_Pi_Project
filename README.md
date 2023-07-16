@@ -47,3 +47,5 @@ Raspberry Pi, PIR sensöründen gelen hareketi izleyecek ve besleme olayını te
 PIR sensörü hareket algıladığında ve besleme tespit edildiğinde, kamera ile fotoğraf veya video çekilecektir.
 Çekilen fotoğraf veya video, belirlediğiniz mail adresine SMTP protokolü kullanılarak gönderilecektir.
 
+* #### Uygulama:
+  https://drive.google.com/file/d/1oFSYlSMMvhqWkCX3J-IkE8zWjntEVMAg/view?usp=sharing
